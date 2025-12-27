@@ -1,4 +1,4 @@
-# Hi there<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" />! I'm Gabriel Vieira
+# Hi there<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" />! I'm Gabriel Vieira  
 **Software Engineer building systems, tools, and products end to end**
 
 ---
@@ -6,9 +6,7 @@
 ## 😶‍🌫️ About me
 - 🎓 Software Engineer with hands-on experience across backend, frontend, infrastructure, and automation  
 - 📚 Computer Science undergraduate at the **University of Caxias do Sul (UCS)**  
-- 🚀 Currently working on production systems, APIs, internal tools, and cloud infrastructure 
-<!-- - ☁️ Strong foundation in **AWS** and cloud-native development   -->
-<!-- - 🌱 Always learning and improving — focused on writing clean, maintainable code   -->
+- 🚀 Currently working on production systems, APIs, internal tools, and cloud infrastructure  
 
 ---
 
@@ -21,29 +19,28 @@
 ---
 
 ## 🧰 Tech stack
+
 **Languages**  
-![Python](https://img.shields.io/badge/Python-333?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-333?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 **Development**  
-![Flask](https://img.shields.io/badge/Flask-333?logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-333?logo=django&logoColor=white)
-![AWS Chalice](https://img.shields.io/badge/AWS%20Chalice-333?logo=amazonaws&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Cloud & Infrastructure**  
-![AWS](https://img.shields.io/badge/AWS-333?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-333?logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-333)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
 
 **Automation & Tooling**  
-![Node.js](https://img.shields.io/badge/Node.js-333?logo=node.js&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-333?logo=selenium&logoColor=white)
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-333?logo=googlechrome&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 **Data**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&logoColor=white)
-![Relational DBs](https://img.shields.io/badge/Relational_Databases-333)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -54,6 +51,6 @@
 ---
 
 ## 📫 Contact
-[![GitHub](https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white)](https://github.com/gabs-vieira)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gvalmeida/)
-[![Email](https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white)](mailto:gabsv.almeida@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabs-vieira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gvalmeida/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabsv.almeida@gmail.com)
